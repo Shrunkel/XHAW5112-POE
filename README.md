@@ -141,7 +141,7 @@ The chosen color palette combines **green and brown tones**, inspired by nature.
 
 The workflow saves the process of submitting the final APK/AAB files for submission and ensure that my project is automatically built and verified each time I push modifications.
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - **Figma** – wireframes and UI design.  
 - **Canva** – visual assets and promotional materials.  
 - **PowerPoint** – presentation slides.  
